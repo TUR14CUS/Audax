@@ -22,13 +22,13 @@ This script is provided for educational purposes and cybersecurity awareness onl
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TUR14CUS/audaxV1.git
+   git clone https://github.com/TUR14CUS/Audax.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd audaxV1
+   cd Audax
    ```
 
 3. Run the script:
